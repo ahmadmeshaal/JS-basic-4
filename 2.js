@@ -9,3 +9,5 @@ function Employee(id, pos) {
   this.position = pos;
 }
 
+let person1= new Person("ahmad","mashal",23);
+
