@@ -21,3 +21,4 @@ let person1= new Person("ahmad","mashal",23);
 person1.greet();
 
 let employee= Object.create(Person)
+d
